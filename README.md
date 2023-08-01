@@ -25,13 +25,13 @@
 # 🧳 Projects
 
 <a href="https://github.com/JulesSorensen/CryptiPics">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=JulesLadeiro&repo=CryptiPics&theme=dark&bg_color=121212&hide_border=true" /></a>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=JulesSorensen&repo=CryptiPics&theme=dark&bg_color=121212&hide_border=true" /></a>
 <a href="https://github.com/JulesSorensen/companyplus-py">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=JulesLadeiro&repo=companyplus-py&theme=dark&bg_color=121212&hide_border=true" /></a><br>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=JulesSorensen&repo=companyplus-py&theme=dark&bg_color=121212&hide_border=true" /></a><br>
 <a href="https://github.com/JulesSorensen/TwitterPlus">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=JulesLadeiro&repo=TwitterPlus&theme=dark&bg_color=121212&hide_border=true" /></a>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=JulesSorensen&repo=TwitterPlus&theme=dark&bg_color=121212&hide_border=true" /></a>
 <a href="https://github.com/JulesSorensen/TwitterPlusFront">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=JulesLadeiro&repo=TwitterPlusFront&theme=dark&bg_color=121212&hide_border=true" /></a><br>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=JulesSorensen&repo=TwitterPlusFront&theme=dark&bg_color=121212&hide_border=true" /></a><br>
 
 # 🧠 Technos
 
