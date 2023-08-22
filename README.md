@@ -30,8 +30,8 @@
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=JulesSorensen&repo=companyplus-py&theme=dark&bg_color=121212&hide_border=true" /></a><br>
 <a href="https://github.com/JulesSorensen/TwitterPlus">
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=JulesSorensen&repo=TwitterPlus&theme=dark&bg_color=121212&hide_border=true" /></a>
-<a href="https://github.com/JulesSorensen/TwitterPlusFront">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=JulesSorensen&repo=TwitterPlusFront&theme=dark&bg_color=121212&hide_border=true" /></a><br>
+<a href="https://github.com/JulesSorensen/toutchaud-symfony">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=JulesSorensen&repo=toutchaud-symfony&theme=dark&bg_color=121212&hide_border=true" /></a><br>
 
 # 🧠 Technos
 
